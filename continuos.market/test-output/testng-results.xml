@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-30T12:43:49Z" name="Default suite" finished-at="2023-05-30T12:44:27Z" duration-ms="38668">
+    <groups>
+    </groups>
+    <test started-at="2023-05-30T12:43:49Z" name="Default test" finished-at="2023-05-30T12:44:27Z" duration-ms="38668">
+      <class name="continous_test.continous">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:continous_test.continous@56673b2c]" started-at="2023-05-30T12:43:49Z" name="beforeTest" finished-at="2023-05-30T12:43:52Z" duration-ms="3335" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method signature="loginpage()[pri:1, instance:continous_test.continous@56673b2c]" started-at="2023-05-30T12:43:52Z" name="loginpage" finished-at="2023-05-30T12:43:57Z" duration-ms="5234" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginpage -->
+        <test-method signature="loginTestseller()[pri:2, instance:continous_test.continous@56673b2c]" started-at="2023-05-30T12:43:57Z" name="loginTestseller" finished-at="2023-05-30T12:43:59Z" duration-ms="1540" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTestseller -->
+        <test-method signature="Screenshot()[pri:3, instance:continous_test.continous@56673b2c]" started-at="2023-05-30T12:43:59Z" name="Screenshot" finished-at="2023-05-30T12:44:04Z" duration-ms="5380" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Screenshot -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:continous_test.continous@56673b2c]" started-at="2023-05-30T12:44:04Z" name="afterTest" finished-at="2023-05-30T12:44:27Z" duration-ms="23132" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- continous_test.continous -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

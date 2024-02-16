@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="ascending_test.ascending">
+        <methods>
+          <include name="doBookmark"/>
+          <include name="beforeTest"/>
+          <include name="loginTestseller"/>
+          <include name="doBookmark3"/>
+          <include name="doBookmark2"/>
+          <include name="loginTestadmin"/>
+          <include name="marginbuyer3"/>
+          <include name="marginbuyer2"/>
+          <include name="loginTestSeller2"/>
+          <include name="logintitletest"/>
+          <include name="statuschecker"/>
+          <include name="loginTestSeller"/>
+          <include name="plan_order"/>
+          <include name="statuscheckerseller"/>
+          <include name="loginTestSeller3"/>
+          <include name="loginTestseller2"/>
+          <include name="afterTest"/>
+          <include name="loginTestseller3"/>
+          <include name="takescreenshottest"/>
+          <include name="ascendingmarket"/>
+          <include name="auctionwinnerlist"/>
+          <include name="checkNotification"/>
+          <include name="margin"/>
+          <include name="marginbuyer"/>
+        </methods>
+      </class> <!-- ascending_test.ascending -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
